@@ -31,23 +31,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['918617738028'] //ur owner number
-global.ownername = "Pga Ff" //ur owner name
-global.ytname = "YT: PGA FF" //ur yt chanel name
-global.socialm = "Instagram: pga_yt" //insta name
-global.location = "India, West Bengal, Kolkata" //ur location
+global.vcardowner = ['254718241545'] //ur owner number
+global.ownername = "Royce Bob" //ur owner name
+global.ytname = "YT: Krakinzlab" //ur yt chanel name
+global.socialm = "royce__b" //insta name
+global.location = "Africa, Kenya, Nairobi" //ur location
 
 //bot bomdy 
-global.owner = ['918617738028']
-global.ownertag = '918617738028' //ur tag number
-global.botname = 'Pga Bot MD V4' //ur bot name
-global.linkz = "https://youtube.com/pgaff" //your theme url which will be displayed on whatsapp
-global.websitex = "https://instagram.com/pga_yt" //ur website to be displayed
+global.owner = ['254718241545']
+global.ownertag = '254718241545' //ur tag number
+global.botname = 'Sakura MD' //ur bot name
+global.linkz = "https://youtube.com/channel/UCBsVizIDS4GCz90DQvkjNxA" //your theme url which will be displayed on whatsapp
+global.websitex = "https://arctix-ai.stackblitz.io/" //ur website to be displayed
 global.botscript = 'Script Is Private😂' //script link
 global.reactmoji = "🤗" //ur menu react emoji
-global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Pga Bot Stickers\n\n\n\n\n\n\n\n\n\n\n❤️ " //ur sticker watermark packname
-global.author = "Pga Ff" //ur sticker watermark author
+global.themeemoji = "🗃" //ur theme emoji
+global.packname = "Sakura MD\n\n\n\n\n\n\n\n\n\n\n 🇰🇪" //ur sticker watermark packname
+global.author = "Royce Bob" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -56,7 +56,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['918617738028'] //ur premium numbers
+global.premium = ['254718241545'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
