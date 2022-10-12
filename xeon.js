@@ -728,3 +728,6 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 })
+if (budy.includes(`menu`)) {
+  reply(`u r welcome mere dost😽😽 ${pushname}`)
+}
